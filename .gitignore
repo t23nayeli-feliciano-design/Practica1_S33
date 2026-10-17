@@ -1,0 +1,7 @@
+venv/
+.venv/
+.aws/
+.vscode-server/
+.vscode/
+__pycache__/
+*.env
